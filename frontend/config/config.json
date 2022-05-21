@@ -1,0 +1,16 @@
+{
+    "CONTRACT_ADDRESS": "0x5fA245a0c4070F44F49fD9D2Af3ef98A00A6b435",
+    "SCAN_LINK": "https://polygonscan.com/token/0x5fA245a0c4070F44F49fD9D2Af3ef98A00A6b435",
+    "NETWORK": {
+        "NAME": "Polygon",
+        "SYMBOL": "Matic",
+        "ID": 137
+    },
+    "NFT_NAME": "HaPeeBees",
+    "SYMBOL": "HPB",
+    "MAX_SUPPLY": 1540,
+    "WEI_COST": 4000000000000000000,
+    "DISPLAY_COST": 299,
+    "GAS_LIMIT": 285000,
+    "SHOW_BACKGROUND": true
+}
